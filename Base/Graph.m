@@ -20,3 +20,5 @@ subplot(312)
 plot(x, y2)
 subplot(313)
 plot(x, y3)
+
+% subplot(2,2,1): matrix graph
